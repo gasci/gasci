@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Göktuğ Aşcı</h1>
 
-#### I am a data engineer and a medical doctor who builds full-stack, cross-platform software. My passion is to generate data-driven solutions to automate and improve healthcare services by utilizing big data and machine learning technologies.
-<br>
+I am a data engineer and a medical doctor who builds full-stack, cross-platform software. My passion is to generate data-driven solutions to automate and improve healthcare services by utilizing big data and machine learning technologies.
 
 ```python
 class GoktugAsci():
@@ -20,8 +19,6 @@ class GoktugAsci():
 if __name__ == '__main__':
     me = GoktugAsci()
 ```
-
-<br>
 
 - 🔭 I’m currently working at SellerX, one of the newest unicorns in Berlin as a Data Engineer
   
