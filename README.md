@@ -24,7 +24,7 @@ if __name__ == '__main__':
   
 - 🌱 I’m currently learning Terraform and Flutter
 
-- 💬 Ask me about Python, JavaScript and SQL
+- 💬 Ask me about Python, JavaScript, and SQL
   
 - 👯 I’m looking to collaborate on open source projects
   
