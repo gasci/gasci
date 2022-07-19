@@ -20,11 +20,11 @@ if __name__ == '__main__':
     me = GoktugAsci()
 ```
 
-- 🔭 I’m currently working as a Data Engineer at SellerX, one of the newest unicorns in Berlin 
+- 🔭 I’m currently working as a Healthcare Data Engineer at Floy, a medical AI start-up in Munich 
   
-- 🌱 I’m currently learning Terraform and Flutter
+- 🌱 I’m currently learning Ray and Dash
 
-- 💬 Ask me about Python, JavaScript, and SQL
+- 💬 Ask me about Python, SQL, and Machine Learning
   
 - 👯 I’m looking to collaborate on open source projects
   
