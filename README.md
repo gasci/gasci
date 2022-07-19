@@ -8,7 +8,7 @@ class GoktugAsci():
   def __init__(self):
     self.name = "Göktuğ Aşcı";
     self.location = "Berlin, Germany";
-    self.title = "Data Engineer";
+    self.title = "Healthcare Data Engineer";
     self.github = "gasci";
     self.linkedin = "@gokasci";
     self.web = "https://drgoktugasci.com/";
@@ -20,7 +20,7 @@ if __name__ == '__main__':
     me = GoktugAsci()
 ```
 
-- 🔭 I’m currently working as a Healthcare Data Engineer at Floy, a medical AI start-up in Munich 
+- 🔭 I’m currently working as a Healthcare Data Engineer at [Floy](https://www.floy.com), a medical AI start-up in Munich 
   
 - 🌱 I’m currently learning Ray and Dash
 
