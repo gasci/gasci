@@ -8,7 +8,7 @@ class GoktugAsci():
   def __init__(self):
     self.name = "Göktuğ Aşcı";
     self.location = "Berlin, Germany";
-    self.title = "Healthcare Data Engineer";
+    self.title = "Data Engineer";
     self.github = "gasci";
     self.linkedin = "@gokasci";
     self.web = "https://drgoktugasci.com/";
